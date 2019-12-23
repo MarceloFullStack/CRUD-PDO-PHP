@@ -19,6 +19,6 @@ $sql .= "VALUES  (:nome,:usuario,:senha,:cargo)";
 
 $clientes->executeSQL($sql,$params);
 
-header("Location:clientes.php");
+header("Location:index.php");
 
 ?>

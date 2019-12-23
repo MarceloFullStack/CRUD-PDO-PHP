@@ -37,7 +37,7 @@
 
 
         <button type="submit" class="btn btn-primary">Submit</button>
-        <p><a href="clientes.php">Listar Clientes Cadastrador</a></p>
+        <p><a href="index.php">Listar Clientes Cadastrador</a></p>
     </form>
 </div>
 
